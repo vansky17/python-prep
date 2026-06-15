@@ -27,4 +27,5 @@ class BMICalculator:
 
 person = BMICalculator()
 person.show_bmi_results()
+# The code defines a BMICalculator class that prompts the user for their name, weight, and height. It includes error handling for invalid inputs and calculates the BMI using the formula weight divided by height squared. The results are displayed with two decimal places.
 

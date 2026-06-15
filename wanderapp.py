@@ -71,4 +71,4 @@ class WanderDistance:
 wander_distance = WanderDistance(2, 10)
 wander_distance.show_info()
 
-
+# The code defines three classes: WanderSpeed, WanderDuration, and WanderDistance. Each class calculates either speed, duration, or distance based on the provided inputs. The classes include error handling for invalid inputs and display the results with two decimal places.

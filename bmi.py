@@ -1,6 +1,6 @@
 class BMICalculator:
     def __init__(self):
-        self.name = input("Enter your name: ")
+        self.name = input("What is your name? ")
         self.weight = 0.0
         self.height = 0.0
 
